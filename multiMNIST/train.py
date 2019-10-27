@@ -358,11 +358,11 @@ def run(dataset = 'mnist',base_model = 'lenet', niter = 100, npref = 5):
         
 
 
-#run(dataset = 'mnist', base_model = 'lenet', niter = 100, npref = 5)
+run(dataset = 'mnist', base_model = 'lenet', niter = 100, npref = 5)
 #run(dataset = 'fashion', base_model = 'lenet', niter = 100, npref = 5)
 #run(dataset = 'fashion_and_mnist', base_model = 'lenet', niter = 100, npref = 5)
 
-run(dataset = 'mnist', base_model = 'resnet18', niter = 1, npref = 5)
+#run(dataset = 'mnist', base_model = 'resnet18', niter = 20, npref = 5)
 #run(dataset = 'fashion', base_model = 'resnet18', niter = 20, npref = 5)
 #run(dataset = 'fashion_and_mnist', base_model = 'resnet18', niter = 20, npref = 5)
 
